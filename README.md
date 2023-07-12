@@ -34,5 +34,5 @@ gibi kenarları ekle , önceden tanımlanmış renkleri kullanabilirsin _self.CO
 # Examples  / Örnekler
 <img src="https://raw.githubusercontent.com/rag0nn/distributor-to-disaster-areas-with-dijsktra-algorithm/master/images/normal_node_map.jpg">
 <img src="https://raw.githubusercontent.com/rag0nn/distributor-to-disaster-areas-with-dijsktra-algorithm/master/images/drawn_with_weights_map.jpg">
-<img str="https://github.com/rag0nn/distributor-to-disaster-areas-with-dijsktra-algorithm/blob/master/images/gif.gif?raw=true">
+<img str="https://raw.githubusercontent.com/rag0nn/distributor-to-disaster-areas-with-dijsktra-algorithm/blob/master/images/gif.gif?raw=true">
 
