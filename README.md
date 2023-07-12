@@ -6,7 +6,7 @@ This project inspired by the earthqueake in turkey in 2023,that disaster cause a
 Some ways are damaged aspecially hatay way was not usable.
 #### Bu proje 2023'te yaşadığımız Maraş depreminden esinlenerek , simüle etmeye çalıştığım bir projedir.Yaşanan koordinasyon problemleri bilgisayar ile nasıl şekilde çözülebilir sorusu üzerinde bu şekilde bir optimizasyon çözümü bulmmaya çalıştım.Yollardaki problemler ve bölgelerdeki hasarlar hesaba katılarak en iyi şekilde optimizasyon nasıl sağlanırın cevabını aradım.
 
-# How can ı test it ? Nasıl Test edebilirim?
+# How can i test it? /  Nasıl Test edebilirim?
 Go _define_nodes()_ method and add node like node(name,location,,color_text,color_circle,radius_small,radius_big,demand,assets) and after go _define_edges()_ add like edge(weight,color_line,color_text,tail_node,head_node)
 you can use it defined colors
 
